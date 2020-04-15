@@ -1,19 +1,10 @@
-var body = $response.body; 
-// 声明一个变量body并以响应消息体赋值
-var obj = JSON.parse(body); 
-// JSON.parse()将json形式的body转变成对象处理
-obj.adUpdateTime=2343338350
-body = JSON.stringify(obj); 
-// 重新打包回json字符串
-$done(body); 
-// 结束修改
+关于JS
 
-var body = $response.body; 
+完了配合网球的配置文件在圈x和surge上面更好的使用
 
-var obj = JSON.parse(body);
+手机只能打开一个VPN所以打开网球的时候，圈x和surge加不能使用
 
-obj.adUpdateTime=2343338350
+完了解决这个问题只能把网球的hcc文件转换成圈x和surge可以识别的JS文件
 
-body = JSON.stringify(obj);
-
-$done(body);
+先写到这里
+有什么可以写的以后再说
