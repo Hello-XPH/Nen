@@ -1,0 +1,170 @@
+🇮🇳 印度 AWS = ss, 13.235.70.75, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇮🇳 印度标准 BGP = ss, 47.105.52.185, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾 CHT 01 = ss, 211.23.12.9, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾 CHT 02 = ss, 211.23.12.10, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾 HiCloud = ss, 210.61.46.222, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾标准 BGP 01 = ss, bgpbz1.ddlleerrcloud.co, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾标准 BGP 02 = ss, bgpbz2.ddlleerrcloud.co, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP - Auto = ss, bgpgj1.ddlleerrcloud.co, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 01 = ss, 47.99.141.172, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 02 = ss, 47.99.140.189, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 03 = ss, 47.99.140.245, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 04 = ss, 47.99.128.55, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 05 = ss, 47.100.175.206, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 06 = ss, 112.5.37.68, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 07 = ss, 47.99.141.58, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 08 = ss, bgpgj8.ddlleerrcloud.co, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 09 = ss, 111.6.44.183, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 10 = ss, 112.5.37.191, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 11 = ss, 40.73.64.47, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇨🇳 台湾高级 BGP 12 = ss, 40.73.25.63, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇹🇷 土耳其 TTNet = ss, 45.123.119.42, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇹🇷 土耳其标准 BGP = ss, 47.105.52.185, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇧🇷 巴西 Azure = ss, 191.232.171.210, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇩🇪 德国 GIA 01 = ss, degia1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇩🇪 德国 GIA 02 = ss, degia2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡标准 BGP 01 = ss, bgpbz1.ddlleerrcloud.co, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡标准 BGP 02 = ss, bgpbz2.ddlleerrcloud.co, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡标准 IPLC 01 = ss, 47.112.185.63, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇸🇬 新加坡标准 IPLC 02 = ss, 47.106.59.183, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=false
+🇸🇬 新加坡高级 BGP - Auto = ss, bgpgj1.ddlleerrcloud.co, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 01 = ss, 47.99.141.172, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 02 = ss, 47.99.140.189, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 03 = ss, 47.99.140.245, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 04 = ss, 47.99.128.55, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 05 = ss, 47.100.175.206, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 06 = ss, 112.5.37.68, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 07 = ss, 47.99.141.58, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 08 = ss, bgpgj8.ddlleerrcloud.co, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 09 = ss, 111.6.44.183, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 10 = ss, 112.5.37.191, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 11 = ss, 40.73.64.47, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 BGP 12 = ss, 40.73.25.63, 452, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇸🇬 新加坡高级 IPLC = ss, 120.77.136.18, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇯🇵 日本 Azure 01 = ss, 20.188.0.188, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本 Azure 02 = ss, 104.41.165.20, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本 Azure 03 = ss, 138.91.2.213, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本 Azure 04 = ss, 13.73.24.179, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本 KDDI = ss, 180.235.234.68, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本标准 BGP 01 = ss, bgpbz1.ddlleerrcloud.co, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本标准 BGP 02 = ss, bgpbz2.ddlleerrcloud.co, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本标准 IPLC = ss, 47.106.230.197, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP - Auto = ss, bgpgj1.ddlleerrcloud.co, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 01 = ss, 47.99.141.172, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 02 = ss, 47.99.140.189, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 03 = ss, 47.99.140.245, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 04 = ss, 47.99.128.55, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 05 = ss, 47.100.175.206, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 06 = ss, 112.5.37.68, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 07 = ss, 47.99.141.58, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 08 = ss, bgpgj8.ddlleerrcloud.co, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 09 = ss, 111.6.44.183, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 10 = ss, 112.5.37.191, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 11 = ss, 40.73.64.47, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇯🇵 日本高级 BGP 12 = ss, 40.73.25.63, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇦🇺 澳大利亚 AWS = ss, 52.64.134.237, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇦🇺 澳大利亚标准 BGP = ss, 47.105.52.185, 252, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇲🇴 澳门 CTM 01 = ss, ctm1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇲🇴 澳门 CTM 02 = ss, ctm2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇲🇴 澳门 CTM 03 = ss, ctm3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国 GIA 01 = ss, usgia1.0tk8a3a1q4t94dler.com, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国 GIA 02 = ss, usgia2.0tk8a3a1q4t94dler.com, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国 GIA 03 = ss, usgia3.0tk8a3a1q4t94dler.com, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国 GIA 04 = ss, usgia4.0tk8a3a1q4t94dler.com, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国 GIA 05 = ss, 38.121.21.205, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国 GIA 06 = ss, 38.121.21.208, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国 GIA 07 = ss, 154.17.2.227, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国 GTT 01 = ss, 154.17.12.214, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国 GTT 02 = ss, 154.17.12.226, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国标准 BGP 01 = ss, bgpbz1.ddlleerrcloud.co, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国标准 BGP 02 = ss, bgpbz2.ddlleerrcloud.co, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国标准 IPLC = ss, 47.101.5.110, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=false
+🇺🇸 美国高级 BGP - Auto = ss, bgpgj1.ddlleerrcloud.co, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 01 = ss, 47.99.141.172, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 02 = ss, 47.99.140.189, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 03 = ss, 47.99.140.245, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 04 = ss, 47.99.128.55, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 05 = ss, 47.100.175.206, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 06 = ss, 112.5.37.68, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 07 = ss, 47.99.141.58, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 08 = ss, bgpgj8.ddlleerrcloud.co, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 09 = ss, 111.6.44.183, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 10 = ss, 112.5.37.191, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 11 = ss, 40.73.64.47, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇺🇸 美国高级 BGP 12 = ss, 40.73.25.63, 552, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国 Cogent = ss, 185.237.99.105, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国标准 BGP 01 = ss, bgpbz1.ddlleerrcloud.co, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国标准 BGP 02 = ss, bgpbz2.ddlleerrcloud.co, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP - Auto = ss, bgpgj1.ddlleerrcloud.co, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 01 = ss, 47.99.141.172, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 02 = ss, 47.99.140.189, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 03 = ss, 47.99.140.245, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 04 = ss, 47.99.128.55, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 05 = ss, 47.100.175.206, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 06 = ss, 112.5.37.68, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 07 = ss, 47.99.141.58, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 08 = ss, bgpgj8.ddlleerrcloud.co, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 09 = ss, 111.6.44.183, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 10 = ss, 112.5.37.191, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 11 = ss, 40.73.64.47, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇬🇧 英国高级 BGP 12 = ss, 40.73.25.63, 652, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇵🇭 菲律宾 ETPI = ss, phbz1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇵🇭 菲律宾标准 BGP = ss, 47.105.52.185, 352, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国 Azure = ss, 52.141.20.47, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP - Auto = ss, bgpgj1.ddlleerrcloud.co, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 01 = ss, 47.99.141.172, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 02 = ss, 47.99.140.189, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 03 = ss, 47.99.140.245, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 04 = ss, 47.99.128.55, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 05 = ss, 47.100.175.206, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 06 = ss, 112.5.37.68, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 07 = ss, 47.99.141.58, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 08 = ss, bgpgj8.ddlleerrcloud.co, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 09 = ss, 111.6.44.183, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 10 = ss, 112.5.37.191, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 11 = ss, 40.73.64.47, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇰🇷 韩国高级 BGP 12 = ss, 40.73.25.63, 752, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 Azure 01 = ss, 168.63.221.128, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 Azure 02 = ss, 13.75.71.37, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 Azure 03 = ss, 13.94.25.88, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 Azure 04 = ss, 52.175.64.159, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 HGC = ss, hkhgc1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 HKBN = ss, hkhkbn1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 i-Cable = ss, icable1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 NTT 01 = ss, 193.110.202.198, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 NTT 02 = ss, 45.88.194.241, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 PCCW 01 = ss, hkpccw1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 PCCW 02 = ss, hkpccw2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 PCCW 03 = ss, hkpccw3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 PCCW 04 = ss, hkpccw4.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港 PCCW 05 = ss, hkpccw5.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港标准 BGP 01 = ss, bgpbz1.ddlleerrcloud.co, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港标准 BGP 02 = ss, bgpbz2.ddlleerrcloud.co, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港标准 IPLC 01 = ss, 120.79.75.225, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 02 = ss, 39.108.191.24, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 03 = ss, 47.107.53.186, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 04 = ss, 120.79.197.215, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 05 = ss, 47.106.195.74, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 06 = ss, 47.107.99.14, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 07 = ss, 120.79.101.97, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 08 = ss, 47.106.227.100, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 09 = ss, 47.106.228.238, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 10 = ss, 47.106.225.73, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港标准 IPLC 11 = ss, 47.107.25.183, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP - Auto = ss, bgpgj1.ddlleerrcloud.co, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 01 = ss, 47.99.141.172, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 02 = ss, 47.99.140.189, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 03 = ss, 47.99.140.245, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 04 = ss, 47.99.128.55, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 05 = ss, 47.100.175.206, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 06 = ss, 112.5.37.68, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 07 = ss, 47.99.141.58, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 08 = ss, bgpgj8.ddlleerrcloud.co, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 09 = ss, 111.6.44.183, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 10 = ss, 112.5.37.191, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 11 = ss, 40.73.64.47, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 BGP 12 = ss, 40.73.25.63, 152, encrypt-method=aes-128-gcm, password=😀password😀, obfs=tls, obfs-host=bbeb056105.wns.windows.com, udp-relay=true
+🇭🇰 香港高级 IPLC 01 = ss, 47.107.174.167, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港高级 IPLC 02 = ss, 47.106.23.31, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港高级 IPLC 03 = ss, 47.115.148.10, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
+🇭🇰 香港高级 IPLC 04 = ss, 47.107.253.86, 24368, encrypt-method=rc4-md5, password=😀password😀, udp-relay=true
