@@ -8,6 +8,12 @@
 🇺🇸 [V2Ray] V1美国UA 02 Netflix 1x = vmess, v2ray-hkss-v1-ua-02.jcss.pw, 80, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false
 🇨🇳 [V2Ray]V1-台湾TW 01 HINET Netflix 1x = vmess, v2ray-v1-hinet-tw-01.jcss.pw, 443, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/, ws-headers=Host:v2ray-v1-hinet-tw-01.jcss.pw
 🇨🇳 [V2Ray]V1-台湾TW 02 HINET Netflix 1x = vmess, v2ray-v1-hinet-tw-02.jcss.pw, 443, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/, ws-headers=Host:v2ray-v1-hinet-tw-02.jcss.pw
+🇸🇬 新加坡01|中继|NETFLIX = vmess, nat.2.realsun.cf, 14113, username=ea61ea36-cda7-4301-b507-f113ee70c6ef, tls=true, ws=true, ws-path=/user, ws-headers=Host:sg.1.realsun.cf
+01日本01 |中继| NETFLIX = vmess，nat.2.realsun.cf，30145，用户名= ea61ea36-cda7-4301-b507-f113ee70c6ef，tls = true，ws = true，ws-path = / user，ws -headers =主机：jp.1.realsun.cf
+01美国01 |隧道= vmess，qzyd2.ssrpass.xyz，33084，用户名= ea61ea36-cda7-4301-b507-f113ee70c6ef，tls = false，ws = true，ws-path = / user，ws-headers = Host： qzyd2.ssrpass.xyz
+🇰🇷 韩国01|中继|NETFLIX = vmess, nat.3.realsun.cf, 24580, username=ea61ea36-cda7-4301-b507-f113ee70c6ef, tls=true, ws=true, ws-path=/user, ws-headers=Host:kr.1.realsun.cf
+🇭🇰 香港01|中继|NETFLIX = vmess, nat.2.realsun.cf, 33207, username=ea61ea36-cda7-4301-b507-f113ee70c6ef, tls=false, ws=true, ws-path=/user, ws-headers=Host:nat.2.realsun.cf
+
 🇭🇰 HK 阿里雲 AliCloud 05(vmess) = vmess, gtyjdm.hk-ali.dataport.xyz, 443, username=12d637b1-b8aa-469c-ad4a-fd556160413d, tls=true, ws=true, ws-path=/je5x3pBN1vez3NQudNkB, ws-headers=Host:gtyjdm.hk-ali.dataport.xyz
 🇭🇰 HK 阿里雲 AliCloud 02(vmess) = vmess, ka83dek0o.hk-ali.tradewind.link, 443, username=12d637b1-b8aa-469c-ad4a-fd556160413d, tls=true, ws=true, ws-path=/je5x3pBN1vez3NQudNkB, ws-headers=Host:ka83dek0o.hk-ali.tradewind.link
 🇸🇬 SG 阿里雲 AliCloud 02(vmess) = vmess, m7wuk77b6.sg-ali.dataport.xyz, 443, username=12d637b1-b8aa-469c-ad4a-fd556160413d, tls=true, ws=true, ws-path=/je5x3pBN1vez3NQudNkB, ws-headers=Host:m7wuk77b6.sg-ali.dataport.xyz
