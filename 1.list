@@ -152,4 +152,14 @@
 🇭🇰 香港高级 BGP 10 = ss, 112.5.37.191, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=3fafe76284.wns.windows.com, udp-relay=true
 🇭🇰 香港高级 BGP 11 = ss, 40.73.64.47, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=3fafe76284.wns.windows.com, udp-relay=true
 🇭🇰 香港高级 BGP 12 = ss, 40.73.25.63, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=3fafe76284.wns.windows.com, udp-relay=true
+🇯🇵 [V2Ray] V1-日本JP 01 IDCF CDN加速 Netflix 2x = vmess, v2ray-v1-idcf-jp-01.jcss.pw, 443, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/, ws-headers=Host:v2ray-v1-idcf-jp-01.jcss.pw
+🇯🇵 [V2Ray] V1-日本JP 02 IDCF CDN加速 Netflix 2x = vmess, v2ray-v1-idcf-jp-02.jcss.pw, 443, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/, ws-headers=Host:v2ray-v1-idcf-jp-02.jcss.pw
+🇰🇷 [V2Ray] V1-韩国Azure 01 CDN加速 2x = vmess, tianjin-liantong-01.cdn-jcss.me, 80, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/vvv, ws-headers=Host:tianjin-liantong-01.awzlz.cn
+🇭🇰 [V2Ray] V1-香港Azure 01 CDN加速 2x = vmess, tianjin-liantong-01.cdn-jcss.me, 80, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/vvv, ws-headers=Host:tianjin-liantong-03.awzlz.cn
+🇭🇰 [V2Ray] V1-香港HKT 01 PCCW CDN加速 Netflix 2x = vmess, tianjin-liantong-01.cdn-jcss.me, 80, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/vvv, ws-headers=Host:tianjin-liantong-04.awzlz.cn
+🇭🇰 [V2Ray] V1-香港HKT 02 PCCW CDN加速 Netflix 2x = vmess, tianjin-liantong-01.cdn-jcss.me, 80, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/vvv, ws-headers=Host:tianjin-liantong-02.awzlz.cn
+🇺🇸 [V2Ray] V1美国UA 01 Netflix 1x = vmess, v2ray-hkss-v1-ua-01.jcss.pw, 80, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false
+🇺🇸 [V2Ray] V1美国UA 02 Netflix 1x = vmess, v2ray-hkss-v1-ua-02.jcss.pw, 80, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false
+🇨🇳 [V2Ray]V1-台湾TW 01 HINET Netflix 1x = vmess, v2ray-v1-hinet-tw-01.jcss.pw, 443, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/, ws-headers=Host:v2ray-v1-hinet-tw-01.jcss.pw
+🇨🇳 [V2Ray]V1-台湾TW 02 HINET Netflix 1x = vmess, v2ray-v1-hinet-tw-02.jcss.pw, 443, username=54e974a3-3d67-35f6-a335-548d85eaab3b, tls=false, ws=true, ws-path=/, ws-headers=Host:v2ray-v1-hinet-tw-02.jcss.pw
 
